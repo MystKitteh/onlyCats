@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<source>
+<title>The Death of Unity - If you're starting a new game project, do not use Unity.</title>
+<author>Brandon Sheffield</author>
+<date when="2023-12-09"/>
+</source>
+<article>
+<p><company>Unity</company> was once heralded as the savior of the video game industry. It was relatively easy to use, and provided an engine/framework for multiple games rather than just one. Even as late as the early 2000s, some game companies, especially in <location>Japan</location>, weren't even sharing similar engines within their own teams! Before the popularity of commercial game engines, each game was built bespoke, which had some advantages, but took a lot of time, and made each port a chore. One of the greatest things Unity provided was a relatively easy pipeline to console releases, making ports more about platform quirks than full recoding.</p>
+
+
+<p>I remember countless interviews I did as a journalist in 2005 where the interviewee said "now that there's engines like Unity, things are getting easier." My game company <company>Necrosoft</company> has used Unity for every commercial project it has ever made.</p>
+
+<p>But now I can say, unequivocally, if you're starting a new game project, do not use Unity. If you started a project 4 months ago, it's worth switching to something else. Unity is quite simply not a company to be trusted.</p>
+
+<p>What has happened? Across the last few years, as John Riccitiello has taken over the company, the engine has made a steady decline into bizarre business models surrounding an engine with unmaintained features and erratic stability.</p>
+
+
+<p>This did not age well.
+I'll talk about eroding features first. Unity has internal champions for its features. Once those champions leave the company, that feature languishes and falls apart. Unity buys competing products, and then if the owner of that product leaves the company, it is no longer supported. Unity has a "stable" version of its product called the "LTS" version. More experimental features are pushed to a beta which developers can use if they're curious. Currently we are on an LTS version that requires us to open a blank page before doing anything else, otherwise the engine simply crashes. This is because of an error Unity introduced recently which they have not fixed. It adds a couple minutes every time we open the project, and is anything but stable.</p>
+
+<p>
+    I'll break down some of the most important factors in this discussion:
+
+Unity personal, which is free, now cannot be used offline.
+all tiers of unity now require developers to pay a flat fee of a few cents for every game that's installed
+Unity plus (which is going away), and pro, and enterprise levels all cost a subscription, and most professional developers have to use it.
+different tiers of downloads and income determine how much you pay.
+Unity has never made money off subscriptions, it has always made money off its ads platform (which you see in f2p mobile games, etc)
+There's a discount if you use Unity Services.
+This money is meant to help with runtime issues when they can't even get their base stable version to run without crashing.
+So the problem becomes this: they are already charging a subscription, and now a per install cost on top of that. What's the point of the subscription if we're also paying another charge on top of that? Why wouldn't it be free at that point?</p>
+
+<p>Also, it's on developers to sort through these two types of costs, meaning Unity has added a bunch of admin work for us, while making it extremely costly for games like Vampire Survivor to sell their game at the price they do. Vampire Survivor's edge was their price, now doing something like that is completely unfeasible. Imagine releasing a game for 99 cents under the personal plan, where <company>Steam</company> takes 30% off the top for their platform fee, and then unity takes 20 cents per install, and now you're making a maximum of 46 cents on the dollar. As a developer who starts a game under the personal plan, because you're not sure how well it'll do, you're punished, astoundingly so, for being a breakout success. Not to mention that sales will now be more costly for developers since Unity is not asking for a percentage, but a flat fee. If I reduce the price of my game, the price unity asks for doesn't decrease.</p>
+
+<p>This all comes out of the developer's pocket, but publishers won't want to be on the hook for it either - expect fewer games to be pitched with Unity going forward.</p>
+</article>
+</root>
