@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="mccolm_9-22_relax.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 <source>
 <title>The Death of Unity - If you're starting a new game project, do not use Unity.</title>
