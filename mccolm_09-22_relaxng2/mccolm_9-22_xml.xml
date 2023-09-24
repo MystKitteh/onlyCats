@@ -4,7 +4,7 @@
 <source>
 <title>The Death of Unity - If you're starting a new game project, do not use Unity.</title>
 <author>Brandon Sheffield</author>
-<date when="2023-12-09"/>
+<date when="2023-09-12"/>
 </source>
 <article>
 <p><company>Unity</company> was once heralded as the savior of the video game industry. It was relatively easy to use, and provided an engine/framework for multiple games rather than just one. Even as late as the early 2000s, some game companies, especially in <location>Japan</location>, weren't even sharing similar engines within their own teams! Before the popularity of commercial game engines, each game was built bespoke, which had some advantages, but took a lot of time, and made each port a chore. One of the greatest things Unity provided was a relatively easy pipeline to console releases, making ports more about platform quirks than full recoding.</p>

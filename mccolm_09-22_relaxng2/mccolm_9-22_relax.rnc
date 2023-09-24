@@ -5,7 +5,7 @@ source = element source {title, author, date}
 title = element title {text}
 author = element author {text}
 date = element date {when, empty}
-when = attribute when {text}
+when = attribute when {xsd:date}
 
 article = element article { p+}
 p = element p {mixed{company*, location*}}
