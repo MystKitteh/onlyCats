@@ -1,0 +1,35 @@
+start = label
+label = element root {source, article}
+
+source = element source {title, author, date}
+title = element title {text}
+author = element author {text}
+date = element date {when, empty}
+when = attribute when {xsd:date}
+
+article = element article {section+, outro}
+section = element section {mixed{h2, line*, li*, line*}}
+h2 = element h2 {text}
+line = element line {mixed{a*}}
+li = element li {mixed{a*, b*, bullet*, ul*}}
+a = element a{mixed{href}}
+href = attribute href {xsd:anyURI}
+b = element b {text}
+bullet = element bullet {mixed{ul*, a*}}
+ul = element ul {text}
+outro = element outro {line*}
+
+
+
+# Notice the difference between labels and acutal name
+# Sequence = , (Requiring a sequence in a particular order)
+# Pipe = | (Either or)
+# ? = Zero or One example: letter = element letter {head?, body}
+# Plus sign = + | Is one or more
+# Asterisk = * | Zero or More // Makes it optioinal data
+# Mixed means you don't have to use text
+# ( | ) Means either or, and then the * outside of the ( | ) makes it zero or more
+# empty means no text to be shown
+# Document -> Schema (You have to be selected on the xml file) -> associate schema
+# First check box, and second drop down is compact
+

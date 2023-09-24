@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="mccolm_9-24_relax3.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <source>
+        <title>Creating Constant Content with Minimal Pain</title>
+        <author>Victoria Tran</author>
+        <date when="2022-01-11"/>
+    </source>
+    <article>
+
+        <section>
+            <h2>FODDER FOR THE ALGORITHM GODS.</h2>
+            <line> Creating consistent and constant social media content is something all folks,
+                even the most experienced of us, struggle with.</line>
+            <line>Folks often assume social media just “comes easily” to some people. While that may
+                be true to a certain extent, it all comes with a ton of practice and observation.
+                More often than not I’m staring blankly at my screen, hoping something funny comes
+                to me. </line>
+            <line>It’s difficult to list out my complete process when it comes to content creation,
+                especially when inspiration can be on the fly. However I know some sort of starting
+                point helps! So whether you’re new to this or a seasoned expert, I hope you find it
+                useful.</line>
+        </section>
+        <section>
+            <h2>Beginner Guides</h2>
+            <line>If you’re just starting and want to understand how each platform works, one of the
+                most underutilized resources are the ones social media platforms put out for
+                creators creators - and they do have some good tips there. After all, they want
+                people to use their platform! </line>
+            <li>TikTok’s <a href="https://www.tiktok.com/creators/creator-portal/en-us">creator
+                    portal</a> or newly launched <a href="https://my.academywithtiktok.com/learn"
+                    >TikTok Academy</a> for brands</li>
+            <li>Twitter’s getting started <a
+                    href="https://help.twitter.com/en/resources/twitter-guide">guide</a></li>
+            <li>YouTube’s tips on <a
+                    href="https://www.youtube.com/intl/en_us/creators/how-things-work/content-creation-strategy/"
+                    >growing your channel</a> and <a href="building your community">building your
+                    community</a></li>
+            <li>Instagram’s <a href="https://creators.instagram.com/lab">creator lab</a> and <a
+                    href="https://creators.instagram.com/grow/algorithms-and-ranking"
+                >algorithms</a></li>
+            <line>Of course, these put the platform in the best light possible and you’ll want to
+                adapt these to fit your own strategy, but it’s still worth a peek if you are
+                completely lost. (Tip: If you’re getting started as an indie, I’d ignore anything
+                that is directed towards monetization and ads. Focus on your organic content
+                creation first.) </line>
+        </section>
+        <section><h2>What Are Your Goals?</h2>
+            <line>What you’re looking for with social media will inform the platforms you’re on, the
+                type of content you make, and what you consider success.</line>
+            <line>Most indie studios use it for awareness and discoverability - currently the hot
+                thing is TikTok for discoverability, but as with anything, this can change at the
+                drop of a hat depending on the algorithms. Other goals could be engagement, update
+                awareness, customer service, etc. Whatever you decide, keep that in the back of your
+                mind as we move forward with this post. </line>
+        </section>
+        <section><h2>How Do We Do Social Media “Well”?</h2>
+            <line>The advice you generally see about social media is: “post quality content
+                consistently”. Which sounds nice, but feels like throwing someone who doesn’t know
+                how to swim into a pool and screaming “JUST SWIM GOOD TO SURVIVE”. (Okay maybe a bit
+                extreme, but you catch my drift.) </line>
+            <line>So before we dive too deep, let’s break down what “post quality content
+                consistently” means.</line>
+            <li><b>What is quality?</b> Quality is content that constantly engages or brings value
+                (e.g. information, entertainment, knowledge) to your community. In order to know if
+                it engages well, you need to know the platform - for instance the ratio of likes to
+                follows, or the ratio of likes to views. It has to garner engagement organically and
+                can’t incentivize engagement through external means such as contests, follow for
+                follows, etc. </li>
+            <li><b>What is consistency?</b> Consistency is the rate and regularity in which you post
+                your content. Algorithms always tend to favour posting at least once per day, but
+                that doesn’t necessarily need to occur for success - more that you do not disappear
+                for weeks or months.</li>
+            <line>But struggling with continually creating content is normal - this is someone’s
+                full time job after all!</line>
+        </section>
+        <section><h2>What Platforms Should You Be On?</h2>
+            <line>With ever evolving amounts of social platforms out there, many folks get
+                overwhelmed thinking they have to be everywhere all at once. This isn’t true,
+                especially if you’re busy handling a ton of other jobs! If you aren’t able to be on
+                everything, here’s what to prioritize:</line>
+            <li>Relatively easy for you to keep up with based on your skills and interests
+                (explained further down in the post)</li>
+            <li>Where your audience is</li>
+            <li>Brings you some amount of excitement and joy</li>
+            <line>Every choice you make has pitfalls - there’s no silver bullet social media
+                platform even if it’s the hot new thing (e.g. TikTok). Heck, maybe BeReal is a great
+                untapped social platform; the networks move so fast it’s hard to ever say that
+                you’re doing it wrong, so long as you measure what works and you can keep it up.
+            </line>
+        </section>
+
+        <section><h2>Splitting Accounts</h2>
+            <line>Should you make a game specific account every single time, or consolidate all your
+                games under one studio account? </line>
+            <line>I usually recommend only having one studio specific account if you don’t have
+                games with huge playerbases, don’t plan on constantly updating your games with new
+                content, only work on one game at a time, or are a small team with limited
+                resources. All of those best practices and algorithms that apply to one account?
+                You’re going to need to do that with multiple different accounts and create content
+                to fill the void - it’s not scalable in the long term unless you hire more. </line>
+            <line>Game-specific accounts tend to be best for games with continual/constant updates
+                or sizeable playerbases that need specific, streamlined communication (such as
+                multiplayer games.) They often will have enough news or gameplay to share and can
+                keep up with the daily grind of content creation. </line>
+            <line> For some indie inspiration - <a href="https://twitter.com/SupergiantGames"
+                    >Supergiant</a> changes their one account based on the game they have released
+                at the time, and streamline it that way. Meanwhile, <a
+                    href="https://twitter.com/BYG_Vancouver">Brace Yourself Games</a> splits their
+                games into multiple accounts since they have multiple things going on at once. There
+                are a ton of different examples of folks succeeding in either case, so in the end
+                it’s up to you! </line>
+        </section>
+        <section><h2>How Do We Create Content? </h2>
+            <line>How do we actually determine what content we make? Let’s imagine it as a flowchart
+                for easy visualisation. </line>
+            <line>At the top, you’ll have your game or studio, depending on what you’re doing. As an
+                example, let’s use <a href="https://www.unpackinggame.com/">Unpacking</a>, a game I
+                previously worked on since it feels a little like cheating if I use Among Us (as
+                it’s a live ops game and constantly has updates.)</line>
+            <line>Next, separate that into 3 big ideas that tie into your core. It can be anything
+                that makes sense with your game! For now, let’s say my 3 main ideas for Unpacking
+                content are: Game Development, Organization, and Personal Stories. So all content
+                under these ideas have to relate to their specific pool.</line>
+            <line>After that we can section each subtopic into content categories. These can be
+                anything you like, so long as you can continually generate ideas from them.</line>
+            <line>For instance, under “Game Development”, I put “Accessibility”. So as I start
+                creating content ideas, I’ll look into the different ways I can show off Unpacking’s
+                accessibility options. Under “Personal Stories”, I put down “Growth”. What kind of
+                content can I create around how the characters grow up and how that reflects in
+                their items when they move? What do they throw out? What do they leave behind? </line>
+            <line>Using this framework, you can constantly refer back to it whenever you’re trying
+                to figure out ideas for content. Nitpick the details of every part of the game and
+                process - you never know what will be a hit. What could this plushie signify? What
+                if I created a room full of toilet paper, which reflects the Great Toilet Paper
+                Shortage of 2020? </line>
+            <line>But how do we KNOW what content is good? Now you’re asking the right questions.
+            </line>
+        </section>
+        <section><h2>How Do We Create Quality Content?</h2>
+            <line>You always hear quality > quantity. Which is true, to a certain point. But how
+                will you KNOW what quality is if you do not generate enough content to judge
+                it?</line>
+            <line>In order to see what quality is, the general rule is to track your engagement and
+                follower counts, which you should definitely do. But every platform can have its own
+                metrics you should look out for, such as TikTok have watch time. Either way, the
+                backend analytics on each platform should give you some idea of what to
+                track.</line>
+            <line>Pooling content into distinct types will help you see a pattern in what works in
+                terms of “quality”, and what doesn’t. Luckily for you, the flowchart from before is
+                a great way to measure what is connecting with your audience, and refine it from
+                there. </line>
+            <line>For instance, here is a brief overview of the stats from my preliminary Among Us
+                TikTok tracking: </line>
+            <line>The categories are broader as I was grouping it for a <a
+                    href="https://www.victoriatran.com/writing/among-us-tiktok">previous blog
+                    post</a>, but you get the idea. Seeing what’s most exciting to your players will
+                help you determine where to go.</line>
+        </section>
+        <section><h2>But Wait!</h2>
+            <line>Engagement counting isn’t enough. We want the qualitative aspect of it too! That’s
+                part of the beauty of our work - paying attention to both numbers and sentiment
+                helps us grow better in the long term. </line>
+            <line>What are folks SAYING about your content? What words do they use to describe your
+                game? Are they confused about something? Are they actually engaging with your
+                content? Are you giving them an opportunity to? Who do you see coming back? Are they
+                angry at your content? Are they laughing? </line>
+            <line>We find the answers to these questions by paying attention and self reflecting on
+                what we put out there. We learn what words to use, we know the tone, we know what
+                sounds snappy or bloated. This all stems from observation and knowing how to
+                critically engage with language!</line>
+            <line>For instance, some people have mentioned being afraid of a “silence brand” moment
+                if they try to be funny. The way I put it is that you’ll only get these moments when
+                you act in a way that is inauthentic to you, your values, or your interests. People
+                are perceptive enough to get when you are faking it.</line>
+            <line>As a personal example, I think a ton of the older memes are hilarious. Don’t get
+                me wrong - I’ll hop on the latest trends, but nothing beats a finely aged meme. I’m
+                lucky to work with <a href="https://twitter.com/thisishannako">Hannako Lambert</a>,
+                who creates a lot of our social art. We’ll often come up with something to post
+                together, and sometimes these are very old references that would be labelled a
+                “silence brand” moment. But we’ve always gotten away with it.</line>
+            <line>I ALWAYS make sure to take extra time to reply to as many comments as I can after
+                I post any of these images. I laugh with people, respond to cringing with
+                tongue-in-cheek humour, and I lean into how ridiculous the post is.</line>
+            <line>And I try to jump on trends, I also don’t worry if I see one that I don’t find
+                amusing or have an idea for. I’d rather skip it entirely than try and force myself
+                to be entertaining or go against my values. (For instance, I was not a huge fan of
+                the Adam Levine sexting meme.) </line>
+            <line>The point of me saying this isn’t “you should post memes” or “just be funny lol??”
+                - the point is that you do not have to fear what brings you joy. Share your
+                enthusiasm with your audience.</line>
+            <line>In essence, while we do want to narrow down our content to be of quality and
+                interest to our audience, we only know how to do this by posting content again and
+                again and again to see what works and define what quality is to us. </line>
+        </section>
+        <section>
+            <h2>Playing To Your Strengths</h2>
+            <line>Assuming you don’t have an entire team dedicated to content creation, coming up
+                with ideas and executing it is still going to take a lot of work. The best way to
+                get inspired to create content is to play according to your own abilities and
+                interests. </line>
+            <line>So if you’re stronger at…</line>
+            <li>Writing, then try: <bullet>Blog posts and articles <ul>Take quotes and turn them
+                        into tweets and videos for social media</ul></bullet>
+                <bullet>Take quotes or your best tweets and turn them into content for other
+                    platforms</bullet>
+                <bullet>Creating ARGs or <a
+                        href="https://www.gamesindustry.biz/no-more-robots-im-just-doing-d-and-d-but-in-a-discord-server"
+                        >narrative adventures on Discord</a></bullet>
+                <bullet>Responding to comments and creating content from your audience</bullet>
+            </li>
+            <li>Video editing: <bullet>Livestreams - cutting them up and posting highlights to
+                    social media platforms</bullet>
+                <bullet>Crossposting TikToks and Reels to other social media platforms </bullet>
+                <bullet>Creating video edits</bullet>
+            </li>
+            <li>Art or image editing: <bullet>Turn still images into videos by talking over them
+                    and/or showing WIP videos</bullet>
+                <bullet>Meme adaptations</bullet>
+                <bullet>Using in-game recordings or creating fun assets</bullet>
+            </li>
+            <line>This is obviously not a full, comprehensive list. And if you think “I can’t do any
+                of these well. It’s still hard!!!” Uhh yeah! It better be! Again, this is someone’s
+                full time job and specialization. Some people just HATE making content and struggle
+                to do it. This is normal. You’re doing great. You don’t need to push out daily
+                content, but you do need to try (or hire someone!)</line>
+            <line>For more inspiration, read my old post about <a
+                    href="https://medium.com/kitfox-games/scrappy-social-media-management-reusing-content-7a501a01fdd2"
+                    >Scrappy Social Media</a>.</line>
+        </section>
+        <section><h2>Keeping It Sustainable</h2>
+            <line>Phewwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww. Now one of the most important things we need
+                to know is how we will sustain ourselves. Everyone has their own ways of preventing
+                burn out, but as someone who has to do this on the daily, here are ways I keep this
+                sustainable:</line>
+            <li>Bulk create content. If you’re having a day where you’re feeling particularly
+                inspired or motivated, create as much content as you can within your given
+                timeframe. Set aside time in your week and have a day where you focus on creating
+                content. I recommend having at least a week’s worth of content ready in your
+                backpocket in case you ever have a time where you’re just creatively drained. </li>
+            <li>Draft like you’ve never drafted before. Sometimes you’ll have ideas but not enough
+                energy or brainspace to make it work. Tuck that idea in your pocket for later. Film
+                TikToks when you get the idea and save them as a draft and return to them when you
+                have the energy and time to flesh them out and refine them (for instance, I will
+                film just a blank wall and write what I want to happen, with the sound, and save it
+                in my TikTok drafts for later.) Have a secret bank of tweet drafts that are just
+                waiting to be refined and tweeted. Save WIP art or bugs from the team. Have weird
+                content that was mishmashed together in PhotoShop. Have an old meme you saved in a
+                folder. All of these ideas are seeds that can grow into plants, if you give them
+                some time and effort. Sometimes it’s easier to tend to them rather than find all new
+                ideas!</li>
+            <li>Don’t feel pressured to be a part of every trend. Do you need to join the bandwagon
+                on everything that goes viral? Nah. There’s always another thing that’ll come
+                around, and if this one isn’t inspiring you, isn’t personally amusing to you, or
+                against your own values - skip it! No need to justify it. </li>
+            <li>Make small sustainable goals. Some folks like having goals for themselves, which is
+                totally fine. Just make sure it’s at a sustainable pace for you. Best practices will
+                say post 3x daily on TikTok, but that’s worthless if it’s going to burn you out by
+                week 1. Instead, find a cadence that you are able to keep up or bulk create content
+                for when you really need to pump up the promo. Algorithms are good to follow, but it
+                doesn’t mean that if you DON’T post daily you’re trash.</li>
+            <li>Have an inspiration list. Follow accounts or other studios that are doing cool fun
+                things! There’s no harm in being inspired by each other, just be respectful of it. </li>
+            <li>Take a vacation goddamnit!!! Set vacation days and get away from social media when
+                you can. Stick to it! Consume content instead of just making it all the time! </li>
+        </section>
+        <section><h2>The End</h2>
+            <line>I hope this helps frame content creation in a more understandable format and makes
+                your life just a teeny bit easier. It’s something everyone struggles with, and the
+                grind of feeding the algorithm gods can feel like a herculean effort. You’re not
+                alone!</line>
+            <line>I hope this also gives insight on just HOW much work can go into the work of
+                social media managers. On the outside it can look like casual meme-ry, but a lot of
+                thought and effort goes into doing it well.</line>
+        </section>
+        <outro>
+            <line>Anyways thanks for reading my content. :D</line>
+
+            <line>❤</line>
+
+            <line>Victoria</line>
+        </outro>
+
+    </article>
+</root>
