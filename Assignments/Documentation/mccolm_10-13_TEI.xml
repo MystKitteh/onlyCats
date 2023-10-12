@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary Behrend's Calendar 1909</title>
+            <author>Mary Behrend</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Coded by Mistie McColm on <date when="2023-10-05">October 5th, 2023</date></p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Penn State Behrend College Library</repository>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <dateline>
+               <date when="1909-03-12">March 12, 1909. Friday. FRIDAY</date>
+            </dateline>
+            <note>A drawing of Molly facing left. Her cheeks are blushing as bright as her mittens.
+               She's wearing a blue hat and skirt with a white long sleeved jacket. Most importantly
+               she has her yellow snowshoes on.</note>
+            <writing type="pencil">
+               <l>MOLLY ON</l>
+               <l>SNOWSHOES</l>
+               <l>THAT MR. WEIR</l>
+               <l>GOT.</l>
+               <l>PRETTY PICTURE IS IT NOT?!</l>
+               <l>Love from Molly.</l>
+            </writing>
+            <!-- Love from Molly. is written on the bottom right of the page with red ink -->
+         </div>
+         <div>
+            <dateline>
+               <date when="1909-03-17">MARCH 17, 1909. WEDNESDAY St. Patrick's Day</date>
+            </dateline>
+            <note>The M in March is colored in green. Drawings of snakes around the date. There are
+               4 three-leaf clovers drawn in separate quadrants of the page. At the bottom, a town
+               with a factory is drawn.</note>
+            <writing type="pen">
+               <l>St. PATRiCK WAS A USEFUF SAiNT</l>
+               <l>HE FRIGHTENED ALL THE SNAKES AWAY -</l>
+               <l>I WiSH HE'D TRY HiS ART ON <handShift change="Smoke is underlined"/>SMOKE</l>
+               <l>AROUND THE HAMMERMiLL SOME DAY!</l>
+               <unclear reason="illegible"/>
+               <!-- At the bottom of the page, there is illegible text written in red -->
+            </writing>
+         </div>
+      </body>
+   </text>
+</TEI>
