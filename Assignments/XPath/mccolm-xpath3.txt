@@ -1,0 +1,17 @@
+XPath Exercise 3 - Mistie McColm
+
+1. //div/count(*) - Finds all of the sortKey attributes
+//div/*/count(*) - Finds the children of the sortKey attributes and counts out how many are in each sortKey attribute
+2. //div/*/count(*) => max() - 1071
+//div/*/count(*) => min() - 3
+3. //div[*/count(*) = 1071] - historical people
+//div[*/count(*) = //div/*/count(*) => max()]
+4. //occupation/@type=> distinct-values() | //occupation/@type=> distinct-values() => count() Brings up 15
+5. //person/occupation[@type="artist"]
+//person[occupation[@type="artist"]]
+//person[occupation[@type="artist"]][@sex="f"] brings up six women
+//person[occupation[@subtype="engraver"]] brings up 18 results
+//person[occupation[@subtype="engraver"]]/birth - William Fiden (Finden_Wm)
+//person[occupation[@subtype="engraver"]]/birth/@when => sort() - 1667-01-12
+6. //*/name() - 40784 results
+//*/name() => distinct-values() - 68 results

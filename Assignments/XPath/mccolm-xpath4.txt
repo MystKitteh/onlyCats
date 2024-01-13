@@ -1,0 +1,19 @@
+XPath Exercise 4 - Mistie McColm
+
+1. //cbml:panel/@characters => distinct-values() - 39 results but it has more than one character per line
+2. //cbml:panel/@characters ! tokenize(.) - 136 results
+3. //@characters[contains(., "drkelly")] - Shows us the same information as the expression below but you have to look at the XPath location to get more details
+//cbml:panel[contains(@characters, "drkelly")] - This finds 5 items and tells us what panel number you can find drkelly in
+4. 
+Longest Speech
+//cbml:balloon[normalize-space() ! string-length() = //cbml:balloon ! normalize-space() ! string-length() => max()]
+//cbml:balloon[normalize-space() ! string-length() = //cbml:balloon ! normalize-space() ! string-length() => max()]/@who
+Kaliman - Y POR ESO ESTAMOS AQUÍ. EL DOCTOR KELLY ME ESCRIBIÓ PIDIENDO QUE VINIERA A COMPROBAR SUS EXPERIMENTOS."
+
+Shortest Speech
+//cbml:balloon[normalize-space() ! string-length() = //cbml:balloon ! normalize-space() ! string-length() => min()]/@who
+Kaliman - TAXI.
+5. //cbml:panel[contains(note, "skull")]
+
+//div[//cbml:balloon[contains(., 'NO')]] - Brings up 20 results because it's looking through all of the divs
+//div[.//cbml:balloon[contains(., 'NO')]] - Brings up 10 results showing which balloon contains 'NO' by looking inside the container

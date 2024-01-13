@@ -1,0 +1,11 @@
+XPath to XSLT - Mistie McColm
+
+1. //narration[@who="Rick"] or 2. //panel[contains(@narration, "Rick")]
+- Pulls up all panels where Rick is talking.
+2. //list[@sortKey="character"]/count(*)
+- Our XML code needs some updating, but I can see a function like above would be helpful in finding out how many characters are in our comic.
+3. //cbml:balloon[normalize-space() ! string-length() = //cbml:balloon ! normalize-space() ! string-length() => max()]
+- Once we update our XML to be CBML a code like above should work. It might be fun to see what the longest balloon in the comic is.
+
+I want to figure out a way to have each panelgroup show what characters are involved on that page.
+I think that could be pretty useful!

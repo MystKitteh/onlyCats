@@ -1,15 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--2016-07-09 ebb: The DTD is problematic and my colleagues in the TEI Council tell me it really shouldn't be used. RelaxNG is current, and since there are 
-   Schematron rules in your ODD (written in XML syntax), you need RelaxNG XML Syntax for your output schema. 
-   So, above this comment is a schema line pointing to the RelaxNG XML syntax schema I output from your ODD. I replaced the DTD line with this. 
-   1) To create it, from the ODD file, use the wrench in oXygen and choose the ODD to Relax-NG XML syntax association scenario.
-   2) Once you've output the .rng schema, here's how to associate it in oXygen: In the oXygen menu bar choose Document, Schema, and Associate Schema. Then browse for the .rng file in your "out" directory.
-   
-   As soon as I associated the .rng I saw problems with the cbml elements panel and caption, and that is only because they require a namespace declaration. So I created that too, on your TEI root element. The new attribute @xmlns:cbml points to the cbml namespace and defines a cbml: prefix you need to use on all the non-TEI elements you use here. Note that those non-TEI elements are defined in your ODD and schema (and you can add more to those schema rules if you like), but you *also* need to declare the namespace and use the prefix here. 
-   
-   I did a "find & replace" and changed all the panel and caption tags to cbml:panel and cbml:caption. I think you're good to go now!
--->
-<!--2016-09-15 dje: Adding page to documentation, teaching fg cbml schema -->
 <?xml-stylesheet type=“text/xsl” href=“teibp.xsl”?>
 <?xml-model href="cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="cbml.css"?>

@@ -1,0 +1,73 @@
+/* 2023-11-10 ebb These are just some styling properties I added on the fly as I was working. 
+ * Feel free to modify them and change the selectors / values to match your own output!  */
+
+body {
+background-color: #0455ee;
+color: white;
+background-image: url(sonicwallpaper.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%, 100%;
+font-family: sans-serif;
+}
+
+.page {
+border: 5px #e8af20 solid; padding: 2em; width:80%;
+background-color: #0455ee;
+margin-left: auto;
+margin-right: auto;
+}
+
+div.panel {
+border: 2px #00a0eb dashed;
+padding: 1em;
+width: 90%;
+margin-left:auto;
+margin-right:auto;
+}
+
+table { 
+border-collapse: collapse;
+width: 40%;
+border: 2px solid #BF9E7D;
+margin-left: auto;
+margin-right: auto;
+background-color: #0455ee;
+}
+
+tr {
+border-collapse: collapse; border: 0;
+}
+
+
+th{
+border-collapse: collapse;
+border: 1px solid  #e8af20;
+background-color: #e8af20;
+padding: 1px;
+vertical-align:top;
+
+}
+
+td { 
+border-collapse: collapse;
+border: 1px solid #000066;
+padding: 7px;
+vertical-align:top;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    font-size: 54px;
+    font-style: italic;
+    text-shadow: 5px 4px #0f0d89;
+}
+ a {
+  color: #55dd10;
+}
+.sound {
+    color: #55dd10;
+    font-weight: bold;
+}

@@ -1,0 +1,11 @@
+XPath Exercise 1 - Mistie McColm
+
+1. This command "//div[@type="panelGrp"]" brings up 24 items in the los-agachados.xml file
+2. For this next part we have to go down to the next path by using the command "//div[@type="panelGrp"]/cbml:panel"
+This will bring up 58 items in the results
+3. To grab a specific  panel group use this code "//div[@type="panelGrp"][#]"
+For example, //div[@type="panelGrp"][2] will only bring up the second panel group.
+4. Now if we're looking for just the characters attribute then we would use "//@characters" This bring up 53 items in the results.
+5. To filter out the elements a bit more we could look for just the narrator by using this command "//cbml:panel[@characters="#narrator"]"
+This will bring up 52 results
+6. //floatingtext gives 41 results, "//cbml:panel[floatingText]+>count()" and "count(//cbml:panel[floatingText]" gives 26 results
